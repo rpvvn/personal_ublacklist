@@ -1,8 +1,6 @@
 ---
-name: vv
-homepage: https://github.com/iorate/ublacklist-example-subscription
+name: Fake News Media (full version)
+description: A subscription that suits me personally
+homepage: https://github.com/rpvvn/personal_ublacklist
 ---
-*://*.example.com/*
-/example\.(net|org)/
-title*="example"i
-*://*.example.edu/* @if($category="images")
+
